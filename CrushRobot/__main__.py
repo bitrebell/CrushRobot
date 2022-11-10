@@ -48,6 +48,8 @@ from CrushRobot import (
     updater,
 )
 
+AALOO = "https://te.legra.ph/file/c899d55728cee2e8fe344.jpg"
+
 # needed to dynamically load modules
 # NOTE: Module order is not guaranteed, specify that in the config file!
 from CrushRobot.modules import ALL_MODULES
@@ -80,7 +82,8 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """
+PM_START_TEXT = f"""
+{AALOO}
 ʜᴇʟʟᴏ {} !
 ๏ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ
 ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ...!!
