@@ -1,4 +1,4 @@
 @echo off
-TITLE Fallen Robot
-:: Enables virtual env mode and then starts Fallen
-env\scripts\activate.bat && py -m FallenRobot
+TITLE Crush Robot
+:: Enables virtual env mode and then starts Crush
+env\scripts\activate.bat && py -m CrushRobot
