@@ -1,2 +1,2 @@
-worker: python3 -m FallenRobot
+worker: python3 -m CrushRobot
 ps:scale worker=1
