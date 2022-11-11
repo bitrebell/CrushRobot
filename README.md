@@ -10,8 +10,8 @@
 
 <p align="center">
     Ａ ＳUＰＰＯＲＴ ＧＲＯUＰ ＡＮＤ ＲＥＡＤＹ-ＴＯ-UＳＥ ＲUＮＮＩＮＧ ＩＮＳＴＡＮＣＥ Ｏf ＴＨＩＳ ＢＯＴ ＣＡＮ ＢＥ fＯUＮＤ ＯＮ ＴＥＬＥＧＲＡＭ .𖤐 <br>
-    <a href="https://t.me/crush_managmentbot"> SyraBot </a> | 
-    <a href="https://t.me/CrushBotSupport"> SyraSupport </a>
+    <a href="https://t.me/crush_managmentbot"> CrushRobot </a> | 
+    <a href="https://t.me/CrushBotSupport"> CrushSupport </a>
 </p>
 
 <p align="center">
