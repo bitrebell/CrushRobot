@@ -48,7 +48,7 @@ from CrushRobot import (
     updater,
 )
 
-AALOO = "https://te.legra.ph/file/c899d55728cee2e8fe344.jpg"
+# AALOO = "https://te.legra.ph/file/c899d55728cee2e8fe344.jpg"
 
 # needed to dynamically load modules
 # NOTE: Module order is not guaranteed, specify that in the config file!
