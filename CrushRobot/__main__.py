@@ -112,7 +112,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id=5652782615"),
-        InlineKeyboardButton(text="☁️ ᴠᴄ ᴀꜱꜱɪꜱᴛᴀɴᴛ ☁️", callback_data=f"https://t.me/CrushAssistant"),
+        InlineKeyboardButton(text="☁️ ᴠᴄ ᴀꜱꜱɪꜱᴛᴀɴᴛ ☁️", url=f"https://t.me/CrushAssistant"),
     ],
 ]
 
