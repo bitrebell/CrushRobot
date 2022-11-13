@@ -111,13 +111,14 @@ buttons = [
         InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="☁️ ᴠᴄ ᴀꜱꜱɪꜱᴛᴀɴᴛ ☁️", callback_data="https://t.me/CrushAssistant"),
+        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id=5652782615"),
+        InlineKeyboardButton(text="☁️ ᴠᴄ ᴀꜱꜱɪꜱᴛᴀɴᴛ ☁️", callback_data=f"https://t.me/CrushAssistant"),
     ],
 ]
 
 HELP_STRINGS = """
   ➻ ʜᴇʀᴇ ɪꜱ ᴍᴀʜ ᴇxᴄʟᴜꜱɪᴠᴇ ᴄᴏᴍᴍᴀɴᴅꜱ !
+  ➻ ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇ ᴄᴏɴᴛᴀᴄᴛ :- @CrushBotSupport
 """
 DONATE_STRING = f""" ʜᴇʏ ʙᴀʙʏ,
 
@@ -217,7 +218,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_text(
-                "Hiii welcome Thank for Using The bot"
+                "Thanks for Using The bot, Join @CrushSupportBot"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
@@ -228,7 +229,7 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_photo(
             START_IMG,
-            caption="ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>".format(
+            caption="ɪ ᴀᴍ ᴀʟɪᴠᴇ !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>\n ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ [ＹＯUＲ ＣＲUＳＨ،(💛](https://t.me/aadillllll)\n ꜱᴜᴘᴘᴏʀᴛ : [Crush Support](https://t.me/crushbotsupport)".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
