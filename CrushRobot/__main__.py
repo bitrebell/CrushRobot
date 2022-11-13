@@ -89,7 +89,7 @@ PM_START_TEXT ="""
 ɪᴛ'ꜱ ʜᴇʟᴘ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ 
 ᴘʟᴀʏ ᴍᴜꜱɪᴄ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴏɴɢ ʙʏ ᴛʜɪꜱ ʙᴏᴛ...!!
 ───────────────
- ➻ 𝕤𝕦𝕡𝕡𝕠𝕣𝕥:[Crush Support](https://t.me/crushbotsupport)
+ ➻ 𝕤𝕦𝕡𝕡𝕠𝕣𝕥:[Crush Support](https://t.me/CrushBotSupport)
  ➻ 𝕞𝕠𝕚 𝕘𝕠𝕕: [ＹＯUＲ ＣＲUＳＨ،(💛](https://t.me/aadillllll)
 ───────────────
 ๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ
@@ -117,12 +117,15 @@ buttons = [
 ]
 
 GROUP_START_TEXT ="""
- ɪ ᴀᴍ ᴀʟɪᴠᴇ !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>\n ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ [ＹＯUＲ ＣＲUＳＨ،(💛](https://t.me/aadillllll)\n ꜱᴜᴘᴘᴏʀᴛ : [Crush Support](https://t.me/crushbotsupport)
+ ɪ ᴀᴍ ᴀʟɪᴠᴇ !
+ <b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>
+ ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ＹＯUＲ ＣＲUＳＨ،💛](https://t.me/aadillllll)
+ ꜱᴜᴘᴘᴏʀᴛ : [Crush Support](https://t.me/CrushBotSupport)
 """
 
 HELP_STRINGS = """
   ➻ ʜᴇʀᴇ ɪꜱ ᴍᴀʜ ᴇxᴄʟᴜꜱɪᴠᴇ ᴄᴏᴍᴍᴀɴᴅꜱ !
-  ➻ ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇ ᴄᴏɴᴛᴀᴄᴛ :- [Crush Support](https://t.me/crushbotsupport)
+  ➻ ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇ ᴄᴏɴᴛᴀᴄᴛ :- [Crush Support](https://t.me/CrushBotSupport)
 """
 DONATE_STRING = f""" ʜᴇʏ ʙᴀʙʏ,
 
