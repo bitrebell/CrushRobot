@@ -118,7 +118,7 @@ buttons = [
 
 HELP_STRINGS = """
   ➻ ʜᴇʀᴇ ɪꜱ ᴍᴀʜ ᴇxᴄʟᴜꜱɪᴠᴇ ᴄᴏᴍᴍᴀɴᴅꜱ !
-  ➻ ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇ ᴄᴏɴᴛᴀᴄᴛ :- @CrushBotSupport
+  ➻ ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇ ᴄᴏɴᴛᴀᴄᴛ :- [Crush Support](https://t.me/crushbotsupport)
 """
 DONATE_STRING = f""" ʜᴇʏ ʙᴀʙʏ,
 
