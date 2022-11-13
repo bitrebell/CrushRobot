@@ -116,6 +116,10 @@ buttons = [
     ],
 ]
 
+GROUP_START_TEXT ="""
+ ɪ ᴀᴍ ᴀʟɪᴠᴇ !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>\n ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ [ＹＯUＲ ＣＲUＳＨ،(💛](https://t.me/aadillllll)\n ꜱᴜᴘᴘᴏʀᴛ : [Crush Support](https://t.me/crushbotsupport)
+"""
+
 HELP_STRINGS = """
   ➻ ʜᴇʀᴇ ɪꜱ ᴍᴀʜ ᴇxᴄʟᴜꜱɪᴠᴇ ᴄᴏᴍᴍᴀɴᴅꜱ !
   ➻ ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇ ᴄᴏɴᴛᴀᴄᴛ :- [Crush Support](https://t.me/crushbotsupport)
@@ -229,7 +233,7 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_photo(
             START_IMG,
-            caption="ɪ ᴀᴍ ᴀʟɪᴠᴇ !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>\n ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ [ＹＯUＲ ＣＲUＳＨ،(💛](https://t.me/aadillllll)\n ꜱᴜᴘᴘᴏʀᴛ : [Crush Support](https://t.me/crushbotsupport)".format(
+            caption= GROUP_START_TEXT.format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
