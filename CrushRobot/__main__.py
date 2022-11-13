@@ -119,9 +119,19 @@ buttons = [
 GROUP_START_TEXT ="""
  ɪ ᴀᴍ ᴀʟɪᴠᴇ !
  <b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>
- ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ＹＯUＲ ＣＲUＳＨ،💛](https://t.me/aadillllll)
- ꜱᴜᴘᴘᴏʀᴛ : [Crush Support](https://t.me/CrushBotSupport)
+ ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ : @aadillllll)
+ ꜱᴜᴘᴘᴏʀᴛ : @CrushBotSupport
 """
+buttons = [
+    [
+        InlineKeyboardButton(
+            text=" ✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"
+        ),
+    ],
+    [
+               InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+    ]
+]
 
 HELP_STRINGS = """
   ➻ ʜᴇʀᴇ ɪꜱ ᴍᴀʜ ᴇxᴄʟᴜꜱɪᴠᴇ ᴄᴏᴍᴍᴀɴᴅꜱ !
