@@ -85,7 +85,9 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT ="""
 ʜᴇʟʟᴏ {} ! [.](https://te.legra.ph/file/c899d55728cee2e8fe344.jpg)
 ๏ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ
-ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ...!!
+ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴍᴜꜱɪᴄ ʙᴏᴛ...!!
+ɪᴛ'ꜱ ʜᴇʟᴘ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ 
+ᴘʟᴀʏ ᴍᴜꜱɪᴄ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴏɴɢ ʙʏ ᴛʜɪꜱ ʙᴏᴛ...!!
 ───────────────
  ➻ 𝕤𝕦𝕡𝕡𝕠𝕣𝕥:[Crush Support](https://t.me/crushbotsupport)
  ➻ 𝕞𝕠𝕚 𝕘𝕠𝕕: [ＹＯUＲ ＣＲUＳＨ،(💛](https://t.me/aadillllll)
@@ -110,7 +112,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="☁️ sᴏᴜʀᴄᴇ ☁️", callback_data="crush_"),
+        InlineKeyboardButton(text="☁️ ᴠᴄ ᴀꜱꜱɪꜱᴛᴀɴᴛ ☁️", callback_data="https://t.me/CrushAssistant"),
     ],
 ]
 
