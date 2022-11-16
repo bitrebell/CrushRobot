@@ -25,6 +25,7 @@ async def repo(client, message):
 **» ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{z}`
 
 **Ｃｒｕｓｈ Ｒｏｂｏｔ❤️ sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+|| ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇ ᴄᴏɴᴛᴀᴄᴛ :- [Crush Support](https://t.me/CrushBotSupport)
 """,
         reply_markup=InlineKeyboardMarkup(
             [
