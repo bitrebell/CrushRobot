@@ -35,7 +35,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "• sᴏᴜʀᴄᴇ •",
-                        url="https://github.com/Darkranger00/CrushaRobot",
+                        url="https://github.com/Darkranger00/CrushRobot",
                     ),
                 ]
             ]
