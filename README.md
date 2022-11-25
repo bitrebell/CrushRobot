@@ -53,7 +53,7 @@
 
 ```console
 CrushRobot@arch:~$ git clone https://github.com/Darkranger00/CrushRobot
-CrushRobot@arch:~$ cd Syrabot
+CrushRobot@arch:~$ cd CrushRobot
 CrushRobot@arch:~$ pip3 install -U -r requirements.txt
 CrushRobot@arch:~$ cp sample_config.py config.py
 ```
