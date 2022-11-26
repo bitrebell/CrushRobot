@@ -249,7 +249,7 @@ def start(update: Update, context: CallbackContext):
             caption= GROUP_START_TEXT.format(
                 uptime
             ),
-            buttons = buttons2
+            buttons = buttons2,
             parse_mode=ParseMode.HTML,
         )
 
