@@ -119,10 +119,10 @@ buttons = [
 GROUP_START_TEXT ="""
  ɪ ᴀᴍ ᴀʟɪᴠᴇ !
  <b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>
- ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ : @aadillllll)
+ ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ : @aadillllll
  ꜱᴜᴘᴘᴏʀᴛ : @CrushBotSupport
 """
-buttons2 = [
+buttons = [
     [
         InlineKeyboardButton(
             text=" ✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"
@@ -249,6 +249,7 @@ def start(update: Update, context: CallbackContext):
             caption= GROUP_START_TEXT.format(
                 uptime
             ),
+            buttons = buttons2
             parse_mode=ParseMode.HTML,
         )
 
