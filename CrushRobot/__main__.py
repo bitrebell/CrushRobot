@@ -122,7 +122,7 @@ GROUP_START_TEXT ="""
  ᴍᴏɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ : @aadillllll)
  ꜱᴜᴘᴘᴏʀᴛ : @CrushBotSupport
 """
-buttons = [
+buttons2 = [
     [
         InlineKeyboardButton(
             text=" ✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"
