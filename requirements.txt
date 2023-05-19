@@ -46,7 +46,7 @@ secureme
 search_engine_parser
 speedtest-cli
 spongemock
-sqlalchemy==2.0.11
+sqlalchemy==2.0.14
 telegram
 telegraph
 telethon==1.28.5
