@@ -1,7 +1,7 @@
 
     API_ID = 10738943
     API_HASH = "da61e3a08b5ac78ce28b4a4cd854aeec"
-    TOKEN = "5887537253:AAGo9KGze9gJwQOfKgK3qIyqDEoYssBD7aY"
+    TOKEN = "6412441114:AAF5nri-Vw1kcwvMn4JT4KzXH2Fjpxv3HHA"
     OWNER_ID = 5716978554
     OWNER_USERNAME = "CrushAssistant"
     SUPPORT_CHAT = "CrushAssistant"
