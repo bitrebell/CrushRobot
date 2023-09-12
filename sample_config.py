@@ -3,7 +3,7 @@
     API_HASH = "da61e3a08b5ac78ce28b4a4cd854aeec"
     TOKEN = "6412441114:AAF5nri-Vw1kcwvMn4JT4KzXH2Fjpxv3HHA"
     OWNER_ID = 5716978554
-    OWNER_USERNAME = "CrushAssistant"
+    OWNER_USERNAME = "aadillllll"
     SUPPORT_CHAT = "CrushAssistant"
     JOIN_LOGGER = (-1001306127048)
     EVENT_LOGS = (-1001677106070)
