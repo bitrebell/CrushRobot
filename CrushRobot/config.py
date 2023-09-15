@@ -20,16 +20,16 @@ class Config(object):
 
     # OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
-    DRAGONS = 
+    DRAGONS = 5716978554
     ##List of id's - (not usernames) for developers who will have the same perms as the owner
-    DEV_USERS = 
+    DEV_USERS = 5716978554
     ##List of id's (not usernames) for users which are allowed to gban, but can also be banned.
-    DEMONS = 
+    DEMONS = 5716978554
     # List of id's (not usernames) for users which WONT be banned/kicked by the bot.
-    TIGERS = 
-    WOLVES = 
+    TIGERS = 5716978554
+    WOLVES = 5716978554
 
-    DONATION_LINK = ""
+    DONATION_LINK = "https://t.me/aadillllll"
     CERT_PATH = None
     PORT = 5000
     DEL_CMDS = True
@@ -41,8 +41,8 @@ class Config(object):
         "CAACAgUAAxkBAAEDafNhq5Z0DegqVzauwSighMw5cPWp8QACVgQAAuUG0FRXfCEuBziNzCIE"
     )
     ALLOW_EXCL = True
-    CASH_API_KEY = ""
-    TIME_API_KEY = ""
+    CASH_API_KEY = "SHOY214OCQ32QEDS"
+    TIME_API_KEY = "ALX2ISMBZXZX"
     BL_CHATS = []
     SPAMMERS = None
     ALLOW_CHATS = True
