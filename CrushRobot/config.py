@@ -11,7 +11,7 @@ class Config(object):
     EVENT_LOGS = (-1001677106070)
 
     SQLALCHEMY_DATABASE_URI = ""
-    MONGO_DB_URI = ""mongodb+srv://adil00:12345@cluster0.fyt5yoa.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI = "mongodb+srv://adil00:12345@cluster0.fyt5yoa.mongodb.net/?retryWrites=true&w=majority"
     LOAD = []
     NO_LOAD = ["rss"]
     WEBHOOK = False
