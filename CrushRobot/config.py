@@ -1,17 +1,17 @@
 class Config(object):
     LOGGER = True
 
-    API_ID = 
-    API_HASH = ""
-    TOKEN = ""
-    OWNER_ID = 
-    OWNER_USERNAME = ""
-    SUPPORT_CHAT = ""
-    JOIN_LOGGER = ()
-    EVENT_LOGS = ()
+    API_ID = 10738943
+    API_HASH = "da61e3a08b5ac78ce28b4a4cd854aeec"
+    TOKEN = "6412441114:AAF5nri-Vw1kcwvMn4JT4KzXH2Fjpxv3HHA"
+    OWNER_ID = 5716978554
+    OWNER_USERNAME = "aadillllll"
+    SUPPORT_CHAT = "CrushAssistant"
+    JOIN_LOGGER = (-1001306127048)
+    EVENT_LOGS = (-1001677106070)
 
     SQLALCHEMY_DATABASE_URI = ""
-    MONGO_DB_URI = ""
+    MONGO_DB_URI = ""mongodb+srv://adil00:12345@cluster0.fyt5yoa.mongodb.net/?retryWrites=true&w=majority"
     LOAD = []
     NO_LOAD = ["rss"]
     WEBHOOK = False
@@ -46,7 +46,7 @@ class Config(object):
     BL_CHATS = []
     SPAMMERS = None
     ALLOW_CHATS = True
-    START_IMG = ""
+    START_IMG = "https://te.legra.ph/file/c899d55728cee2e8fe344.jpg"
     HEROKU_API_KEY = None
     HEROKU_APP_NAME = None
     TEMP_DOWNLOAD_DIRECTORY = "./"
