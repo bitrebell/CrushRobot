@@ -165,13 +165,11 @@ else:
         raise Exception("Your blacklisted chats list does not contain valid integers.")
 
 
-DRAGONS.add(5716978554)
-DEV_USERS.add(5716978554)
-DEV_USERS.add(5716978554)
+
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
-telethn = TelegramClient("Fallen", API_ID, API_HASH)
+telethn = TelegramClient("Crush", API_ID, API_HASH)
 
 pbot = Client("CrushRobot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 dispatcher = updater.dispatcher
